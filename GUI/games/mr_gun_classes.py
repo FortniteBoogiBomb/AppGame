@@ -1,5 +1,3 @@
-awhatthefuckbr:
-mri
 # Date: June 5th 2018
 # File Name: mr_gun_classes.py
 # Description: These classes are for a mr.gun game.

@@ -1,5 +1,3 @@
-awhatthefuckbr:
-mri
 # Date: June 5th 2018
 # File Name: mr_gun.py
 # Description: This program is a game based of Ketchapp's mr.gun
